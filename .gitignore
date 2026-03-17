@@ -1,6 +1,7 @@
 # Vivado project files
 *.xpr
 *.xci
+*.xdc
 *.xml
 *.tcl
 *.jou
