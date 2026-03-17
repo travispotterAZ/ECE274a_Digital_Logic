@@ -1,0 +1,12 @@
+# Vivado project files
+*.xpr
+*.xci
+*.xml
+*.tcl
+*.jou
+*.log
+*.ltx
+*.backup
+*.srcs
+*.cache
+*.hw
